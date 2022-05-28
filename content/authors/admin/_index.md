@@ -71,3 +71,5 @@ After years of adventure, I realized that I enjoy seeing my robots generate dyn
 To pursue this, I am currently working as a Research Assistant at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/). I primarily do my research here on using **Optimal Control** and **Reinforcement Learning** techniques for the locomotion of legged robots in different environments.
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view?usp=sharing).
+
+## Note: The website is currently under construction.
