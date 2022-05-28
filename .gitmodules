@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/aditya-shirwatkar/aditya-shirwatkar.github.io.git
+	branch = main
