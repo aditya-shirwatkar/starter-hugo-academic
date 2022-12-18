@@ -12,13 +12,13 @@ A repo for building [my website](https://aditya-shirwatkar.github.io) using Hugo
 ```bash
 git add .
 git commit -m "Making Changes"
-git push -u origin master
+git push -u origin main
 
 hugo # Generate the website inside the public directory
 cd public
 git add .
 git commit -m "Build website"
-git push origin master
+git push origin main
 cd ..
 ```
 
