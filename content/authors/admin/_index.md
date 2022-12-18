@@ -14,7 +14,7 @@ organizations:
     url: https://iisc.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics (primarily legged), optimal control, and reinforcement learning.
+bio: My research interests include robotics (primarily legged), optimal control, and reinforcement learning.
 
 # Interests to show in About widget
 interests:
@@ -49,27 +49,32 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://in.linkedin.com/in/aditya-shirwatkar-40a956188
+  - icon: reddit
+    icon_pack: fab
+    link: https://www.reddit.com/user/hubble02/submitted/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+  # and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'avant.redditor@gmail.com'
+email: 'adityasr@iisc.ac.in'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I've been interested in math and physics since I was in elementary school. Thanks to my awesome [peer group](https://www.ivlabs.in/) during undergrad, I gradually started to get into  robotics research. 
-After years of adventure, I realized that I enjoy seeing my robots generate dynamic motions. This enjoyment has led to my current research interests in the intersection of **Motion Generation** and **Legged Robotics**.
+Since elementary school, I've always been interested in math and physics. Thanks to my awesome [peer group](https://www.ivlabs.in/) during undergrad, I gradually started to get into robotics research. After years of adventure, I realized that I enjoy seeing my robots generate dynamic motions. This enjoyment has led me to my current research interests in the intersection of **Motion Generation** and **Legged Robotics**.
 
+To pursue these interests, I'm currently a Ph.D. student at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/). I primarily do my research here on **Optimal Control** and **Reinforcement Learning** techniques for legged locomotion in challenging environments.
 
-To pursue this, I am currently working as a Research Assistant at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/). I primarily do my research here on using **Optimal Control** and **Reinforcement Learning** techniques for the locomotion of legged robots in different environments.
+<!-- Students VNIT link -->
+<!-- {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view). -->
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view?usp=sharing).
+{{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1cGdITHwhlH7EjOn60NJnYkIYIDxS2y9l/view).
+
 
 ## Note: The website is currently under construction.
