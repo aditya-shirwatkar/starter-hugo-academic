@@ -69,3 +69,19 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+cascade:
+  - _target:
+      path: /project/**
+    share: false
+  - _target:
+      path: /publication/**
+    share: false
+  - _target:
+      path: /event/**
+    share: false
+  - _target:
+      path: /post/**
+    share: false
+  - _target:
+      path: /drawing/**
+    share: false

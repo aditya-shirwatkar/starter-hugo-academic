@@ -6,7 +6,7 @@ title: Aditya Shirwatkar
 superuser: true
 
 # Role/position/tagline
-role: 
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,14 +67,17 @@ email: 'adityasr@iisc.ac.in'
 highlight_name: true
 ---
 
-Since elementary school, I've always been interested in math and physics. Thanks to my awesome [peer group](https://www.ivlabs.in/) during undergrad, I gradually started to get into robotics research. After years of adventure, I realized that I enjoy seeing my robots generate dynamic motions. This enjoyment has led me to my current research interests in the intersection of **Motion Generation** and **Legged Robotics**.
+Since elementary school, I've always been interested in math and physics. Thanks to my awesome [peer group](https://www.ivlabs.in/) during undergrad, I had the opportunity to explore different areas in robotics. After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my current research interests in **Motion Planning and Control**.
 
-To pursue these interests, I'm currently a Ph.D. student at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/). I primarily do my research here on **Optimal Control** and **Reinforcement Learning** techniques for legged locomotion in challenging environments.
+To pursue these interests, I'm doing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/). I primarily do my research here on **Optimal Control** and **Reinforcement Learning** techniques for legged locomotion in challenging environments.
 
 <!-- Students VNIT link -->
 <!-- {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view). -->
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1cGdITHwhlH7EjOn60NJnYkIYIDxS2y9l/view).
+{{< icon name="download" pack="fas" >}} **Download my [resumé](https://drive.google.com/file/d/1cGdITHwhlH7EjOn60NJnYkIYIDxS2y9l/view)**.
 
+Feel free to contact me for any questions or suggestions, I would be more than happy to interact through a chat or a meet.
 
-## Note: The website is currently under construction.
+Besides this, I like to spend my time [drawing](drawing/all) and looking at trees and clouds :)
+
+<!-- ## Note: The website is currently under construction. -->
