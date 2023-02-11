@@ -67,9 +67,11 @@ email: 'adityasr@iisc.ac.in'
 highlight_name: true
 ---
 
-Since elementary school, I've always been interested in math and physics. Thanks to my awesome [peer group](https://www.ivlabs.in/) during undergrad, I had the opportunity to explore different areas in robotics. After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my current research interests in **Motion Planning and Control**.
+Since elementary school, I've been interested in math and physics. Thanks to my awesome [research group](https://www.ivlabs.in/) led by [Dr. Shital S. Chiddarwar](https://in.linkedin.com/in/shital-chiddarwar-ph-d-5a7173b6) during undergrad at VNIT Nagpur, I had the opportunity to explore different areas in robotics. 
 
-To pursue these interests, I'm doing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/). I primarily do my research here on **Optimal Control** and **Reinforcement Learning** techniques for legged locomotion in challenging environments.
+After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my research interests in **Motion Planning and Control**.
+
+Currently I'm doing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/).
 
 <!-- Students VNIT link -->
 <!-- {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view). -->

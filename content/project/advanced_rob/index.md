@@ -4,7 +4,7 @@ summary: 'Personal Project based on online coursework CS 287: Advanced Robotics,
 tags:
   - Personal Project
 show_date: false
-weight: 6
+weight: 7
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 

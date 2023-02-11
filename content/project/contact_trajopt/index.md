@@ -1,10 +1,10 @@
 ---
-title: 'Underactuated Robotics'
-summary: 'Personal Project based on online coursework MIT 6.832: Underactuated Robotics by Dr. Russ Tedrake'
+title: 'Contact Trajectory Optimization'
+summary: Personal Project to implement trajectory optimization for rigid bodies in contact
 tags:
   - Personal Project
 show_date: false
-weight: 6
+weight: 5
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
@@ -17,7 +17,7 @@ external_link: ''
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/aditya-shirwatkar/UnderactuatedRobotics'
+url_code: 'https://github.com/IvLabs/contact_trajectory_optimization'
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-Repository of implementation of few algorithms for Underactuated Systems in Robotics and solutions to some interesting problems.
+A personal project to implement Trajectory Optimization formulation as given in "Posa, M., Cantu, C., & Tedrake, R. (2014). A direct method for trajectory optimization of rigid bodies through contact. *The International Journal of Robotics Research, 33*(1), 69-81."

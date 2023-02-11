@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  # theme_day: minimal
+  theme_day: vivy
   theme_night: vivy
-  font: cyberpunk
-  font_size: L
+  font: Native # cyberpunk
+  font_size: M
 
 # SEO
 
