@@ -20,7 +20,7 @@ authors:
 show_date: false
 
 # date: '2023-07-01T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2305.04614'
+doi: '10.48550/arXiv.2305.04614'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
