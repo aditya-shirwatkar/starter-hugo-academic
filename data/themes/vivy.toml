@@ -17,7 +17,7 @@ name = "vivy"
 
 [dark]
   # Primary
-  primary = "#4DA8DA"
+  primary = "#79b8ff"
 
   # Menu
   menu_primary = "#000"
@@ -26,5 +26,5 @@ name = "vivy"
   menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "#12232E"
-  home_section_even = "#203647"
+  home_section_odd = "#24292e"
+  home_section_even = "#1e2428"

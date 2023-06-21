@@ -6,7 +6,7 @@ event_url: https://cps.iisc.ac.in/cyphyss2022/
 
 show_date: false
 
-# location: Bangalore
+location: Bangalore
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -45,7 +45,7 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vR16gyo716RQftGTnVZ0dBDNDDnB5kI1AsxIjefPoVdTtiVpCset_ZCIpI0QeibJI5xqv_o0EzYcbeT/pub?start=false&loop=true&delayms=3000'
-url_video: 'https://youtu.be/La3y-xhWm1U'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

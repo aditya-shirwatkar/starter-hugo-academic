@@ -22,6 +22,10 @@ git push origin main
 cd ..
 ```
 
+## Useful Links
+
+1. https://github.com/matteocourthoud/custom-wowchemy-theme/issues/1
+
 ## Credits
 
 - [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)

@@ -33,8 +33,13 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 'showcase'
-  columns: '2'
+  view: 2
+  # columns: '2'
+  # Minimum and maximum font sizes (1.0 = 100%).
+  font_size_min: 0.05
+  font_size_max: 0.2
+
+
 ---
 
 <!-- {{% callout note %}}

@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: vivy
-  theme_night: vivy
+  # theme_night: 'cyberpunk'
   font: Native # cyberpunk
   font_size: M
 
