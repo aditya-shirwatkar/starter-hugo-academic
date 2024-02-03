@@ -40,9 +40,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/hubble_02
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=en&user=RcnvQwUAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/aditya-shirwatkar
@@ -69,7 +69,7 @@ highlight_name: true
 
 Since elementary school, I've been interested in math and physics. Thanks to my awesome [research group](https://www.ivlabs.in/) led by [Dr. Shital S. Chiddarwar](https://in.linkedin.com/in/shital-chiddarwar-ph-d-5a7173b6) during undergrad at VNIT Nagpur, I had the opportunity to explore different areas in robotics. 
 
-After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my research interests in **Motion Planning and Control**.
+After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my research interests in **Motion Planning** & **Control**.
 
 Currently I'm doing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/).
 

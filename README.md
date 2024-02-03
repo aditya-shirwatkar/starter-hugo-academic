@@ -5,6 +5,8 @@ A repo for building [my website](https://aditya-shirwatkar.github.io) using Hugo
 ## Dependencies for building
 
 - [Hugo](https://gohugo.io/)
+    - wget <extented deb name from>
+    - sudo dpkg -i hugo_0.109.0_linux-amd64.deb
 - [Go](https://go.dev/)
 
 ## Updating Commands
