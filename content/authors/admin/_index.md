@@ -18,9 +18,9 @@ bio: My research interests include robotics (primarily legged), optimal control,
 
 # Interests to show in About widget
 interests:
-  - Legged Robotics
-  - Optimal Control
-  - Reinforcement Learning
+  - Robotics
+  - Robot Learning
+  - Legged Locomotion
 
 # Education to show in About widget
 education:

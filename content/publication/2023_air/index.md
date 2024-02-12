@@ -9,9 +9,9 @@ weight: 10
 authors:
   - admin
   - Somnath Sendhil Kumar
-  - Bharadwaj Amrutur
-  - Shalabh Bhatnagar
-  - Ashitava Ghosal
+  # - Bharadwaj Amrutur
+  # - Shalabh Bhatnagar
+  # - Ashitava Ghosal
   - Shamrao Garur
   - Vinod Kumar
   - Shishir Kolathaya
@@ -25,7 +25,7 @@ author_notes:
 show_date: false
 
 # date: '2023-07-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1145/3610419.3610572'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -37,13 +37,13 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Advances in Robotics 2023
+publication: 2023 International Conference on Advances in Robotics
 publication_short: AIR 2023
 
 abstract: "Until now, planetary exploration has been accomplished with wheeled vehicles, making movement in highly complex, sandy, and sloping terrain incredibly tough. On the other hand, legged robots have come a long way in the last decade and have reached a stage of development where practical applications appear to be possible. Legged robots can overcome wheeled vehicles' difficulties when exploring harsh environments like impact craters to collect critical scientific data. As a result, there is a need to develop simple, stable walking controllers given the limited power resources and reserve maximum onboard computing for scientific equipment while exploring such regions. This work proposes a walking controller for legged robots that is computationally efficient at runtime for traversing planetary terrains. We implement this walking controller on our custom built quadruped, using learned linear feedback policies that modulate the end-foot trajectories. The proposed walking controller can traverse various planetary terrains such as flat, sloped, rugged, loose, and lower-than-Earth gravity conditions in simulation environments. Our controller outperforms the baseline open-loop controller on planetary landscapes by reducing slippage and increasing stability. We have also provided preliminary hardware testing results of our controller. In addition, video results can be found at: https://youtu.be/La3y-xhWm1U"
 
 # Summary. An optional shortened abstract.
-summary: '*Advances in Robotics (AIR) 2023, IIT Ropar* <br> **Accepted**'
+summary: '*2023 International Conference on Advances in Robotics (AIR)*'
 
 tags: []
 
@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3610419.3610572'
 url_code: ''
 url_dataset: ''
 url_poster: ''

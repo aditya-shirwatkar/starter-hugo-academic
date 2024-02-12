@@ -8,6 +8,9 @@ cms_exclude: true
 #   3 = Card
 view: 3
 
+# TODO:
+# 1. Ashok Leyland talk on 02/02/2024
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
