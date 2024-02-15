@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Cyber Physical Systems (ongoing)
+      institution: Indian Institute of Science (IISc), Bangalore
     - course: B.Tech in Mechanical Engineering
       institution: Visvesvaraya National Institute of Technology (VNIT), Nagpur
       year: 2022
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,7 +74,7 @@ Since elementary school, I've been interested in math and physics. Thanks to my 
 
 After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my research interests in **Motion Planning** & **Control**.
 
-Currently I'm doing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/).
+Currently I'm pursuing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/).
 
 <!-- Students VNIT link -->
 <!-- {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view). -->
