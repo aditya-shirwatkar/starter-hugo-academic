@@ -1,7 +1,7 @@
 ---
 title: 'Force control for Robust Quadruped Locomotion: A Linear Policy Approach'
 
-weight: 10
+weight: 11
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

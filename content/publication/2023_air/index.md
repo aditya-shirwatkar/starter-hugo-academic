@@ -1,7 +1,7 @@
 ---
 title: 'Realizing Linear Controllers for Quadruped Robots on Planetary Terrains'
 
-weight: 10
+weight: 12
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

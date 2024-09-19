@@ -1,7 +1,7 @@
 ---
 title: 'Reducing Onboard Processing Time for Path Planning in Dynamically Evolving Polygonal Maps'
 
-weight: 11
+weight: 13
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
