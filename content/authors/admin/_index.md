@@ -6,21 +6,23 @@ title: Aditya Shirwatkar
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student (IISc) | Visiting Researcher (TUM)
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: IISc Bangalore
     url: https://iisc.ac.in/
+  - name: TU Munich
+    url: https://www.tum.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics (primarily legged), optimal control, and reinforcement learning.
 
 # Interests to show in About widget
 interests:
-  - Robotics
+  - Legged Robotics
   - Robot Learning
-  - Legged Locomotion
+  - Optimal Control
 
 # Education to show in About widget
 education:
@@ -74,10 +76,9 @@ Since elementary school, I've been interested in math and physics. Thanks to my 
 
 After years of adventure, I realized that I enjoyed seeing my robots generate dynamic motions and studying the mathematical beauty of their nonlinear dynamics. This enjoyment has led me to my research interests in **Motion Planning** & **Control**.
 
-Currently I'm pursuing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/).
+I'm pursuing my PhD under [Prof. Shishir N. Y.](https://www.shishirny.com/) at the [Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/), focusing on developing frameworks for "contact-rich" legged locomotion.
 
-<!-- Students VNIT link -->
-<!-- {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Au0u1A6T5t1hxRWBBZunYxvENzBKhTDB/view). -->
+Currently, I'm a Visiting Researcher at the [ATARI Lab](https://www.ce.cit.tum.de/en/aipd/), [Munich Institute of Robotics and Machine Intelligence (MIRMI), TUM](https://www.mirmi.tum.de/en/mirmi/), working with [Prof. Majid Khadiv](https://www.professoren.tum.de/en/khadiv-majid) on safe and optimal loco-manipulation problems.
 
 {{< icon name="download" pack="fas" >}} **Download my [resumé](https://drive.google.com/file/d/1cGdITHwhlH7EjOn60NJnYkIYIDxS2y9l/view)**.
 

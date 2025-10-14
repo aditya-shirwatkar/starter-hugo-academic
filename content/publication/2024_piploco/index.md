@@ -21,7 +21,7 @@ author_notes:
 show_date: false
 
 # date: '2023-07-01T00:00:00Z'
-doi: '10.48550/arXiv.2409.09441'
+doi: '10.1109/ICRA55743.2025.11128382'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -30,16 +30,16 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv Preprint
-publication_short: ArXiv Preprint
+publication: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+publication_short: ICRA 2025
 
 abstract: 'A core strength of Model Predictive Control (MPC) for quadrupedal locomotion has been its ability to enforce constraints and provide interpretability of the sequence of commands over the horizon. However, despite being able to plan, MPC struggles to scale with task complexity, often failing to achieve robust behavior on rapidly changing surfaces. On the other hand, model-free Reinforcement Learning (RL) methods have outperformed MPC on multiple terrains, showing emergent motions but inherently lack any ability to handle constraints or perform planning. To address these limitations, we propose a framework that integrates proprioceptive planning with RL, allowing for agile and safe locomotion behaviors through the horizon. Inspired by MPC, we incorporate an internal model that includes a velocity estimator and a Dreamer module. During training, the framework learns an expert policy and an internal model that are co-dependent, facilitating exploration for improved locomotion behaviors. During deployment, the Dreamer module solves an infinite-horizon MPC problem, adapting actions and velocity commands to respect the constraints. We validate the robustness of our training framework through ablation studies on internal model components and demonstrate improved robustness to training noise. Finally, we evaluate our approach across multi-terrain scenarios in both simulation and hardware.'
 
 # Summary. An optional shortened abstract.
-summary: 'arXiv:2409.09441'
+summary: '*2025 IEEE International Conference on Robotics and Automation (ICRA), Atlanta*'
 
 tags: []
 

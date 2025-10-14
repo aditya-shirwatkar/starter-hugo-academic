@@ -27,7 +27,7 @@ author_notes:
 show_date: false
 
 # date: '2023-07-01T00:00:00Z'
-doi: 'https://doi.org/10.1109/ICRA48891.2023.10161080'
+doi: '10.1109/ICRA48891.2023.10161080'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''

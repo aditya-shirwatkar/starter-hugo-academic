@@ -1,0 +1,19 @@
+// .portrait-title h2 {
+//     font-size: 1.1rem !important;
+//     line-height: 1.3 !important;
+//     white-space: nowrap !important;
+// }
+
+.portrait-title h3 {
+    font-size: 0.95rem !important;
+    line-height: 1.3 !important;
+    white-space: nowrap !important;
+}
+
+@media (max-width: 768px) {
+    .portrait-title h2,
+    .portrait-title h3 {
+        white-space: normal !important;
+        font-size: 0.95rem !important;
+    }
+}

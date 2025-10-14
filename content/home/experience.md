@@ -22,9 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Researcher
+    company: '**ATARI Lab**, Munich Institute of Robotics and Machine Intelligence (MIRMI), TUM'
+    company_url: 'https://www.ce.cit.tum.de/en/aipd/'
+    # company_logo: org-x
+    location: Munich
+    date_start: '2025-09-01'
+    date_end: ''
+    description: Collaborating with Prof. Majid Khadiv on safe and optimal legged loco-manipulation
+
   - title: Research Assistant
-    company: '**Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore**'
-    company_url: 'https://cps.iisc.ac.in/'
+    company: '**StochLab**, Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore'
+    company_url: 'https://stochlab.com/'
     # company_logo: org-x
     location: Bengaluru
     date_start: '2021-03-01'
@@ -32,7 +41,7 @@ experience:
     description: Worked under Prof. Shishir N. Y. in collaboration with Indian Space Research Organisation (ISRO)
 
   - title: Project Intern
-    company: '**IvLabs, VNIT Nagpur**'
+    company: '**IvLabs**, VNIT Nagpur'
     company_url: 'https://ivlabs.in/'
     # company_logo: org-x
     location: Nagpur
